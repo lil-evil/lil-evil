@@ -110,12 +110,3 @@ The project structure, guideline and softwares (website, custom git server...) a
 </div>
 
 A team to regroup some developpers, designers and other usefull competences, to help each other in various projects.
-
-<div align="center">
-    <h2>🤖 Kady</h2>
-    <img src="https://img.shields.io/badge/🗸%20verified-5865F2">
-    <img src="https://img.shields.io/badge/members-+100k-blue">
-    <img src="https://img.shields.io/badge/server-+120-darkgreen">
-</div>
-
-Kady is a multipurpose discord bot which aims to be respectful with your data, user friendly, stable and easy to configurate on your server. You can learn more in [the community server🔗](https://discord.gg/VJCYgJtARV) and the [kady's team github🔗](https://github.com/Kady-Team).
