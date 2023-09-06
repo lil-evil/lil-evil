@@ -94,14 +94,11 @@ I also plan to learn :
 
 <h1 align="center"><u>🎨 Projects</u></h1>
 <div align="center">
-    <h2>✨Pandora</h2>
-    <img src="https://img.shields.io/badge/members-4-blue">
-    <img src="https://img.shields.io/badge/status-growing-red">
+    <h2>🤖 Kady</h2>
+    <img src="https://img.shields.io/badge/status-developpement-red">
 </div>
 
-Pandora is a tiny project which aims to regroups some project under one namespace, to provide access to libraries and specification build by pandora's dev members.
-
-The project structure, guideline and softwares (website, custom git server...) are still in developpement but we are always happy to find engaged peoples.
+A multi fonctionnal Discord Bot
 
 <div align="center">
     <h2>🍡 Chamallow team</h2>
