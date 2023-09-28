@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://images.weserv.nl/?url=github.com/lil-evil.png?v=4&h=200&w=200&fit=cover&mask=circle&maxage=1d" >
+    <img src="https://images.weserv.nl/?url=github.com/lil-evil.png?v=4&h=200&w=200&fit=cover&mask=circle" >
     <br>
     <img src="https://img.shields.io/badge/Linux-9f6fcf?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=black">
