@@ -3,7 +3,7 @@
     <br>
     <img src="https://img.shields.io/badge/Linux-9f6fcf?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=black">
-    <img src="https://img.shields.io/badge/C%2B%2B-00595c?style=for-the-badge&logo=c%2B%2B&logoColor=black">
+    <img src="https://img.shields.io/badge/Lua-00595c?style=for-the-badge&logo=lua&logoColor=black">
     <br>
     <h2><u>Hello there 🦈</u></h2>
 </div>
@@ -17,7 +17,7 @@ Just a French guy who fool around.
 
 ```lua
 local Me = {
-    pseudos  = {"Little", "lilevil"},
+    pseudos = {"Little", "lilevil"},
     age     = 19,
     study   = "🔬biology",
 
