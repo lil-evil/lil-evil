@@ -2,7 +2,7 @@
     <img src="https://images.weserv.nl/?url=github.com/lil-evil.png?v=4&h=200&w=200&fit=cover&mask=circle" >
     <br>
     <img src="https://img.shields.io/badge/Linux-9f6fcf?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=black">
+    <img src="https://img.shields.io/badge/Rust-CE412B?style=for-the-badge&logo=Rust&logoColor=black">
     <img src="https://img.shields.io/badge/Lua-00595c?style=for-the-badge&logo=lua&logoColor=black">
     <br>
     <h2><u>Hello there 🦈</u></h2>
